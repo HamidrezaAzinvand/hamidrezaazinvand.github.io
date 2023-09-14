@@ -1,0 +1,37 @@
+/* =================================== Header =================================== */
+#title {
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+#title-description {
+    color: wheat;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#home {
+    color: white;
+}
+#home:hover {
+    cursor: pointer;
+    color: #ea1323;
+}
+#about_me {
+    color: white;
+    transition: .3s;
+    font-size: 20px;
+}
+#about_me:hover {
+    color: #ea2513;
+}
+
+.btn-primary {
+    background-color: #f36;
+    border-color: #f36;
+}
+.btn-primary:hover {
+    background-color: #f15;
+    border-color: #f15;
+}
