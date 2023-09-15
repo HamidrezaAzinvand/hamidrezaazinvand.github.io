@@ -35,3 +35,12 @@
     background-color: #f15;
     border-color: #f15;
 }
+
+#home {
+    color: white;
+    transition: .3s;
+    font-size: 20px;
+}
+#home:hover {
+    color: #ea2513;
+}
