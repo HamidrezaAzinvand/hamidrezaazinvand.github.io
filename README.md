@@ -1,1 +1,0 @@
-# hamidrezaazinvand.github.io
