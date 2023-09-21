@@ -17,3 +17,6 @@ function FoxyTown_2() {
 function BackMain() {
     window.location.href = "https://hamidrezaazinvand.github.io/main/intro.html";
 }
+function orangeBoy() {
+    window.location.href = "https://hamidrezaazinvand.github.io/Orange-Boy-Adventure/Orange-Boy%20(Jar).rar";
+}
