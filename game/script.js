@@ -15,5 +15,5 @@ function FoxyTown_2() {
     window.location.href = "https://hamidrezaazinvand.github.io/FoxyTown/Foxy%20Town.part2.rar";
 }
 function BackMain() {
-    window.location.href = "https://hamidrezaazinvand.github.io/Main/intro.html";
+    window.location.href = "https://hamidrezaazinvand.github.io/main/intro.html";
 }
