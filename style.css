@@ -49,7 +49,9 @@ body {
     color: #333;
     text-shadow: 2px 2px 5px #2f2f2f;
 }
-
+.list-about {
+	color: #333;
+}
 .button-30 {
     align-items: center;
     appearance: none;
